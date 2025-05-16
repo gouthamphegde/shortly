@@ -8,10 +8,10 @@
 		<version>3.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.shortly</groupId>
-	<artifactId>shortly</artifactId>
+	<groupId>com.shortly.shortner</groupId>
+	<artifactId>shortner</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Shortly</name>
+	<name>Shortner</name>
 	<description>A production-grade URL shortener built with Spring Boot</description>
 	<url/>
 	<licenses>
