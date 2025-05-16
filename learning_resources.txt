@@ -1,0 +1,30 @@
+Docker, Docker Compose, and GitHub Actions Learning Resources:
+
+**1. Docker:**
+
+*   Official Docker Get Started Guide: This is the best place to start. It covers Docker concepts, installation, and basic commands.
+    *   https://docs.docker.com/get-started/
+*   Dockerfile reference: For understanding how to write Dockerfiles.
+    *   https://docs.docker.com/engine/reference/builder/
+*   Spring Boot with Docker Guide: Specific guide from Spring on how to dockerize Spring Boot applications.
+    *   https://spring.io/guides/gs/spring-boot-docker/
+
+**2. Docker Compose:**
+
+*   Official Docker Compose Overview: Introduction to Docker Compose and its use cases.
+    *   https://docs.docker.com/compose/
+*   Compose file reference: Detailed information on the docker-compose.yml file syntax and options.
+    *   https://docs.docker.com/compose/compose-file/
+*   Getting Started with Docker Compose: A practical tutorial.
+    *   https://docs.docker.com/compose/gettingstarted/
+
+**3. GitHub Actions:**
+
+*   Official GitHub Actions Documentation: Comprehensive documentation covering all aspects of GitHub Actions.
+    *   https://docs.github.com/en/actions
+*   Quickstart for GitHub Actions: A good starting point for creating your first workflow.
+    *   https://docs.github.com/en/actions/quickstart
+*   Building and testing Java with Maven: Specific guide for setting up CI for Java projects using Maven.
+    *   https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-maven
+*   Workflow syntax for GitHub Actions: Reference for the YAML syntax used in workflow files.
+    *   https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
